@@ -1,0 +1,6 @@
+ID,FirstName,LastName,DateOfBirth,Ethnicity,Gender,Status,EntryAcademicPeriod,ExclusionType,ACTComposite,ACTMath,ACTEnglish,ACTReading,SATCombined,SATMath,SATVerbal,SATReading,HSGPA,HSCity,HSState,HSZip,Email,EntryAge,GED,EnglishSecondLanguage,FirstGeneration
+1,John,Doe,1998-05-15,White,Male,Enrolled,Fall 2022,None,25,25,25,25,1200,600,600,600,3.5,New York,NY,10001,johndoe@example.com,18,false,true,false
+2,Jane,Smith,1999-02-20,Hispanic,Female,Enrolled,Fall 2022,None,24,24,24,24,1150,550,600,600,3.7,Los Angeles,CA,90001,janesmith@example.com,19,true,false,true
+3,Michael,Johnson,1997-11-10,Black,Male,Enrolled,Fall 2022,None,26,26,26,26,1250,650,600,650,3.2,Chicago,IL,60601,michaeljohnson@example.com,20,false,false,true
+4,Emily,Brown,1998-08-25,Asian,Female,Enrolled,Fall 2022,None,28,28,28,28,1300,700,600,700,3.9,Houston,TX,77001,emilybrown@example.com,19,false,false,false
+5,William,Wilson,1999-04-30,White,Male,Enrolled,Fall 2022,None,22,22,22,22,1100,500,600,600,3.4,Phoenix,AZ,85001,williamwilson@example.com,18,true,true,false
